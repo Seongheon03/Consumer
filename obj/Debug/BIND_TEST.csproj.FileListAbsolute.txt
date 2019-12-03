@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\CsStudy\BIND_TEST\bin\Debug\BIND_TEST.exe.config
+C:\Users\user\source\repos\CsStudy\BIND_TEST\bin\Debug\BIND_TEST.exe
+C:\Users\user\source\repos\CsStudy\BIND_TEST\bin\Debug\BIND_TEST.pdb
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.GetMoneyForm.resources
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.MemoToBuyForm.resources
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.Main.resources
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.Properties.Resources.resources
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.StoreForm.resources
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.exe
+C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.pdb
