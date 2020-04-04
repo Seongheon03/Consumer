@@ -94,6 +94,7 @@ namespace BIND_TEST
         {
             if (creditCheck.Checked == true)
             {
+                creditMoney[storeName.SelectedIndex] += total;
                 setMemoToBuyFormListBoxs();
                 MessageBox.Show("외상처리 되었습니다.");
                 Close();
@@ -166,8 +167,8 @@ namespace BIND_TEST
             drink1.Text = "스프라이트"; drink1Price.Text = "1000"; drink1Num.Value = 0;
             drink2.Text = "코카콜라"; drink2Price.Text = "1200"; drink2Num.Value = 0;
             drink3.Text = "환타"; drink3Price.Text = "800"; drink3Num.Value = 0;
-            snackPicture.Load(@"C:\Users\user\source\repos\CsStudy\BIND_TEST\Resources\snack1.jpg");
-            drinkPicture.Load(@"C:\Users\user\source\repos\CsStudy\BIND_TEST\Resources\drink1.jpg");
+            snackPicture.Load(@"D:\GitHub\Consumer\Resources\snack1.jpg");
+            drinkPicture.Load(@"D:\GitHub\Consumer\Resources\drink1.jpg");
             setDefaultText();
         }
 
@@ -183,8 +184,8 @@ namespace BIND_TEST
             drink1.Text = "뽀로로 밀크맛"; drink1Price.Text = "1000"; drink1Num.Value = 0;
             drink2.Text = "비타500"; drink2Price.Text = "800"; drink2Num.Value = 0;
             drink3.Text = "밀키스"; drink3Price.Text = "1000"; drink3Num.Value = 0;
-            snackPicture.Load(@"C:\Users\user\source\repos\CsStudy\BIND_TEST\Resources\snack2.jpg");
-            drinkPicture.Load(@"C:\Users\user\source\repos\CsStudy\BIND_TEST\Resources\drink2.jpg");
+            snackPicture.Load(@"D:\GitHub\Consumer\Resources\snack2.jpg");
+            drinkPicture.Load(@"D:\GitHub\Consumer\Resources\drink2.jpg");
             setDefaultText();
         }
 
@@ -200,8 +201,8 @@ namespace BIND_TEST
             drink1.Text = "포카리스웨트"; drink1Price.Text = "1800"; drink1Num.Value = 0;
             drink2.Text = "2% 아쿠아"; drink2Price.Text = "1700"; drink2Num.Value = 0;
             drink3.Text = "토레타"; drink3Price.Text = "1800"; drink3Num.Value = 0;
-            snackPicture.Load(@"C:\Users\user\source\repos\CsStudy\BIND_TEST\Resources\snack3.jpg");
-            drinkPicture.Load(@"C:\Users\user\source\repos\CsStudy\BIND_TEST\Resources\drink3.jpg");
+            snackPicture.Load(@"D:\GitHub\Consumer\Resources\snack3.jpg");
+            drinkPicture.Load(@"D:\GitHub\Consumer\Resources\drink3.jpg");
             setDefaultText();
         }
 

@@ -19,7 +19,7 @@ namespace BIND_TEST.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -143,9 +143,9 @@ namespace BIND_TEST.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap 마넌 {
+        internal static System.Drawing.Bitmap 만원 {
             get {
-                object obj = ResourceManager.GetObject("마넌", resourceCulture);
+                object obj = ResourceManager.GetObject("만원", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +153,9 @@ namespace BIND_TEST.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap 오처넌 {
+        internal static System.Drawing.Bitmap 오천원 {
             get {
-                object obj = ResourceManager.GetObject("오처넌", resourceCulture);
+                object obj = ResourceManager.GetObject("오천원", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -163,9 +163,9 @@ namespace BIND_TEST.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap 처넌 {
+        internal static System.Drawing.Bitmap 천원 {
             get {
-                object obj = ResourceManager.GetObject("처넌", resourceCulture);
+                object obj = ResourceManager.GetObject("천원", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

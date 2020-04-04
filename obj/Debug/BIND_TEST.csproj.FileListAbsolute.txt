@@ -11,3 +11,15 @@ C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.csproj.Generate
 C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.exe
 C:\Users\user\source\repos\CsStudy\BIND_TEST\obj\Debug\BIND_TEST.pdb
+D:\GitHub\Consumer\obj\Debug\BIND_TEST.csprojAssemblyReference.cache
+D:\GitHub\Consumer\obj\Debug\BIND_TEST.GetMoneyForm.resources
+D:\GitHub\Consumer\obj\Debug\BIND_TEST.MemoToBuyForm.resources
+D:\GitHub\Consumer\obj\Debug\BIND_TEST.Main.resources
+D:\GitHub\Consumer\obj\Debug\BIND_TEST.StoreForm.resources
+D:\GitHub\Consumer\obj\Debug\BIND_TEST.csproj.GenerateResource.cache
+D:\GitHub\Consumer\obj\Debug\BIND_TEST.exe
+D:\GitHub\Consumer\obj\Debug\BIND_TEST.pdb
+D:\GitHub\Consumer\bin\Debug\BIND_TEST.exe.config
+D:\GitHub\Consumer\bin\Debug\BIND_TEST.exe
+D:\GitHub\Consumer\bin\Debug\BIND_TEST.pdb
+D:\GitHub\Consumer\obj\Debug\BIND_TEST.Properties.Resources.resources
